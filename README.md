@@ -16,3 +16,17 @@ In this repository, I will be documenting my daily progress as I learn and explo
 - Understanding the basics of TypeScript
 - Setting up a TypeScript project
 - Understanding Interface in TypeScript
+
+## 🚀 My Learning Goals
+
+- **Master TypeScript**: From basic types to advanced features, including decorators, generics, and namespaces.
+- **Build Projects**: Apply my knowledge to create small projects, and later scale to larger applications.
+- **Understand Type Safety**: Embrace TypeScript's strong typing system and leverage it for safer and more maintainable code.
+
+## 💬 Feel free to contribute!
+
+If you have any tips, resources, or feedback, feel free to open an issue or submit a pull request! I would love to hear from you.
+
+---
+
+Let's get started! 🚀
