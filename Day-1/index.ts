@@ -85,12 +85,3 @@ class Circle extends Shape {
         return Math.PI * this.radius * this.radius
     }
 }
-
-class square extends Shape {
-    name = "square";
-    width = 2;
-    height = 2;
-    calculatedArea(): number {
-        return this.width * this.height
-    }
-}
