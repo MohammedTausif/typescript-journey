@@ -16,6 +16,12 @@ In this repository, I will be documenting my daily progress as I learn and explo
 - Understanding the basics of TypeScript
 - Setting up a TypeScript project
 - Understanding Interface in TypeScript
+  
+### Day 2: Types, Arrays, and Enums in TypeScript
+- Learned about type annotations and primitive types in TypeScript  
+- Worked with arrays and union types  
+- Explored enums to manage constants  
+
 
 ## 🚀 My Learning Goals
 
