@@ -20,7 +20,18 @@ In this repository, I will be documenting my daily progress as I learn and explo
 ### Day 2: Types, Arrays, and Enums in TypeScript
 - Learned about type annotations and primitive types in TypeScript  
 - Worked with arrays and union types  
-- Explored enums to manage constants  
+- Explored enums to manage constants
+
+### Day 3: Revision Day  
+- Reviewed previously learned topics, including:  
+- Type annotations and primitive types  
+- Arrays and union types  
+- Enums for managing constants 
+    
+### Day 4: Generics and Modules in TypeScript
+- Learned about generics for creating reusable and type-safe components  
+- Explored how to use `export` and `import` to organize code across multiple files  
+- Practiced creating and importing custom modules in TypeScript  
 
 
 ## 🚀 My Learning Goals
