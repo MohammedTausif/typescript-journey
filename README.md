@@ -31,7 +31,14 @@ In this repository, I will be documenting my daily progress as I learn and explo
 ### Day 4: Generics and Modules in TypeScript
 - Learned about generics for creating reusable and type-safe components  
 - Explored how to use `export` and `import` to organize code across multiple files  
-- Practiced creating and importing custom modules in TypeScript  
+- Practiced creating and importing custom modules in TypeScript
+  
+### Day 5: Classes and Their Use Cases in TypeScript  
+- Learned how to define and use classes in TypeScript  
+- Explored constructors, methods, and properties  
+- Understood access modifiers (`public`, `private`, `protected`) and their use cases  
+- Practiced inheritance and extending classes to build reusable components  
+
 
 
 ## 🚀 My Learning Goals
