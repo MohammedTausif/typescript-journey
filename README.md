@@ -37,7 +37,14 @@ In this repository, I will be documenting my daily progress as I learn and explo
 - Learned how to define and use classes in TypeScript  
 - Explored constructors, methods, and properties  
 - Understood access modifiers (`public`, `private`, `protected`) and their use cases  
-- Practiced inheritance and extending classes to build reusable components  
+- Practiced inheritance and extending classes to build reusable components
+
+### Day 6: Advanced Types in TypeScript  
+- Learned about Type Guards for runtime type checking  
+- Explored Utility Types like `Partial`, `Readonly`, and `Pick`  
+- Worked with Intersection Types to combine multiple types  
+- Understood Conditional Types for dynamic type definitions  
+
 
 
 
