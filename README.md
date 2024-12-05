@@ -43,7 +43,13 @@ In this repository, I will be documenting my daily progress as I learn and explo
 - Learned about Type Guards for runtime type checking  
 - Explored Utility Types like `Partial`, `Readonly`, and `Pick`  
 - Worked with Intersection Types to combine multiple types  
-- Understood Conditional Types for dynamic type definitions  
+- Understood Conditional Types for dynamic type definitions
+  
+### Day 7: Decorators and Namespaces in TypeScript  
+- Learned about Class and Method Decorators for adding metadata and enhancing functionality  
+- Practiced working with Namespaces to organize code  
+- Reinforced understanding of Import/Export for module management in TypeScript  
+
 
 
 
