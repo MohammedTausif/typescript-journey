@@ -47,8 +47,8 @@ In this repository, I will be documenting my daily progress as I learn and explo
   
 ### Day 7: Decorators and Namespaces in TypeScript  
 - Learned about Class and Method Decorators for adding metadata and enhancing functionality  
-- Practiced working with Namespaces to organize code  
-- Reinforced understanding of Import/Export for module management in TypeScript  
+- Practiced working with `Namespaces` to organize code  
+- Reinforced understanding of `Import/Export` for module management in TypeScript  
 
 
 
